@@ -1,5 +1,11 @@
 # AutoJoinWG
 
+**V1.0**
+Download [Here](https://github.com/LtyrantTheMultiboxer/AutoJoinWG/releases/download/AutoJoinWG/AutoJoinWG.rar)
+
+<img width="220" height="101" alt="AutojoinWG" src="https://github.com/user-attachments/assets/7360a1e1-27e0-47db-8bf3-99685f6c51dc" />
+
+
 Installation & Usage Guide
 What is AutoJoinWG?
 AutoJoinWG is a lightweight utility for World of Warcraft (3.3.5a) designed for players who want to automate the Wintergrasp queue process. It provides a simple on-screen toggle to enable or disable the auto-accept feature.
