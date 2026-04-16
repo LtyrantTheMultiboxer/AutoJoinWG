@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AutoJoinWG
+## Notes: Adds a toggle button to automatically accept Wintergrasp Queue invite.
+## Author: xLT69x
+## Version: 1.0
+## SavedVariables: AutoJoinWG_Settings
+
+AutoJoinWG.lua
